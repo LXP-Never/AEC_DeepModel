@@ -1,5 +1,5 @@
 checkpoints/AEC_baseline/10.pth
-Q_and_A
+Q_and_A/*
 data_preparation/tensor_complex.py
 
 data_preparation/Synthetic/TEST/echo_signal/*.wav
