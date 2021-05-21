@@ -49,6 +49,8 @@ python test/model_test.py
 
 点赞，关注，不迷路
 
+我以后还会开源更有价值的内容
+
 # 参考
 
 - [语音数据增强及python实现](https://www.cnblogs.com/LXP-Never/p/13404523.html)
